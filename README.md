@@ -21,3 +21,6 @@ public class Calculator {
 
 이번 예제에서 간단한 문자열 계산기를 만들어보며, 그동안의 절차지향적 습관을 벗어던지고 코드를 OOP style로 바꿔본다.
 이 과정에서 TDD 또한 적용하며 새로운 코드에 대한 확신을 갖는다.
+
+#### 심화 예제
+[Anti-OOP: if 를 피하고 싶어서](http://redutan.github.io/2016/03/31/anti-oop-if)
